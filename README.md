@@ -2,9 +2,10 @@
 
 My name is **Milos**, i am dedicated and creative Sr. Software Engineer & SCRUM Evangelist, with 7+ years of experience in adding significant value to complex and large-scope projects, both on the development and project management end. Regarded for the ability to pay apt attention to details, all the while keeping in mind the big picture. Excellent in translating business requirements into operational tasks, thus facilitating the development process and bringing “reinventing the wheel” moments to a minimum. 
 
-- 🔭 I’m currently working on huge Platform update for Gigster 
+- 🔭 I’m currently working management platform / dashboard @Gigster
 - 🌱 I’m currently learning Kubernetes and Teraform
 - 📫 You can reach me directly on milos5611@gmail.com
+- 💬 Ask me anything about Javascript / Typescript stack, i'll be glat to help if i can
 
 <!--
 **Milos5611/Milos5611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
