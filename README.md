@@ -5,7 +5,7 @@ My name is **Milos**, i am dedicated and creative Sr. Software Engineer & SCRUM 
 - 🔭 I’m currently working on management platform / dashboard
 - 🌱 I’m currently learning Kubernetes and Teraform
 - 📫 You can reach me directly on milos5611@gmail.com
-- 💬 Ask me anything about Javascript / Typescript stack, i'll be glat to help if i can
+- 💬 Ask me anything about Javascript / Typescript / Dart / Flutter stack, i'll be glat to help if i can
 
 <!--
 **Milos5611/Milos5611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
