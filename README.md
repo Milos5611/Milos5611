@@ -6,7 +6,7 @@ My name is **Milos**, i am dedicated and creative Sr. Software Engineer & SCRUM 
 - 💬 Ask me anything about Javascript / Typescript / Node / Dart / Flutter stack, i'll be glat to help if i can
 
 ![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milos5611&layout=compact&&langs_count=10&hide=css,HTML)](https://github.com/Milos5611)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milos5611&layout=compact&&langs_count=8)](https://github.com/Milos5611)
 
 
 <!--
