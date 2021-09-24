@@ -5,6 +5,8 @@ My name is **Milos**, i am dedicated and creative Sr. Software Engineer & SCRUM 
 - 📫 You can reach me directly on milos5611@gmail.com
 - 💬 Ask me anything about Javascript / Typescript / Node / Dart / Flutter stack, i'll be glat to help if i can
 
+![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true)
+
 <!--
 **Milos5611/Milos5611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
