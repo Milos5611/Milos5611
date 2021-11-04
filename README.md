@@ -1,4 +1,4 @@
-[![Image of https://github.com/Milos5611/counter-view](https://github.com/Milos5611/counter-view/blob/master/svg/profile/badge.svg)](https://github.com/Milos5611/counter-view)
+
 
 ### Hi there 👋
 
