@@ -12,8 +12,7 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
 
 <h2>🛠 My Toolkit</h2>
 
-<p align="left">
-    
+<p align="left"> 
     <a title="JavaScript" href="" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
     </a>
@@ -47,7 +46,7 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
     </a>
     <a title="Docker" href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
+        <img src="https://cdn-icons-png.flaticon.com/512/556/556027.png" alt="docker" width="45" height="45" />
     </a>
     <a title="Kubernetes" href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="45" height="45" />
