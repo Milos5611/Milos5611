@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years of experience in adding significant value to complex and large-scope projects, both on the development and project management end. Regarded for the ability to pay apt attention to details, all the while keeping in mind the big picture. Excellent in translating business requirements into operational tasks, thus facilitating the development process and bringing “reinventing the wheel” moments to a minimum. 
+My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with experience in adding significant value to complex and large-scope projects, both on the development and project management end. Regarded for the ability to pay apt attention to details, all the while keeping in mind the big picture. Excellent in translating business requirements into operational tasks, thus facilitating the development process and bringing “reinventing the wheel” moments to a minimum. 
 
 - 📫  You can reach me directly at milos5611@gmail.com
 - 💬  Ask me anything about Javascript / Typescript / Node / Dart / Flutter stack, i'll be glat to help if i can
@@ -10,6 +10,7 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
 ![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&hide=stars&card_width=270)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milos5611&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=270)](https://github.com/Milos5611)
 
+<!--
 <h2>🛠 My Toolkit</h2>
 
 <p align="left"> 
@@ -65,6 +66,7 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="45" height="45" />
     </a>
 </p>
+-->
 
 <!--
 **Milos5611/Milos5611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
