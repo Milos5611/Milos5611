@@ -13,38 +13,7 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
 <h2>🛠 My Toolkit</h2>
 
 <p align="left">
-    <a title="Java" href="https://www.oracle.com/java/technologies/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg" alt="java" width="45" height="45" />
-    </a>
-    <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="Spring Boot" width="45" height="45" />
-    </a>
-    <a title="Spring Cloud" href="https://github.com/spring-cloud" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" alt="Spring Cloud" width="45" height="45" />
-    </a>
-    <a title="Project Reactor" href="https://projectreactor.io/" target="_blank">
-        <img src="resources/ProjectReactor.png" alt="Project Reactor" width="45" height="45" />
-    </a>
-    <a title="Hibernate" href="https://github.com/hibernate" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg" alt="Hibernate" width="45" height="45" />
-    </a>
-    <a title="Quarkus" href="https://github.com/quarkusio" target="_blank">
-        <img
-            src="https://camo.githubusercontent.com/e0745b3f2134e3fc0ac25b98b70cce3a2d752f9d20bdcd6c3229668c9ba5d273/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f717561726b75732d69636f6e2e737667"
-            alt="Quarkus"
-            width="45"
-            height="45"
-        />
-    </a>
-    <a title="Groovy" href="https://groovy-lang.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="groovy" width="45" height="45" />
-    </a>
-    <a title="Go" href="https://golang.org/" target="_blank">
-        <img src="resources/gopher.svg" alt="golang" width="45" height="45" />
-    </a>
-    <a title="Kafka" href="https://kafka.apache.org/" target="_blank">
-        <img src="resources/kafkalogo.svg" alt="kafka" width="50" height="48" />
-    </a>
+    
     <a title="JavaScript" href="" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
     </a>
@@ -60,14 +29,8 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
     <a title="Gradle" href="https://gradle.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg" alt="gradle" width="45" height="45" />
     </a>
-    <a title="JUnit" href="https://github.com/junit-team" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="45" height="45" />
-    </a>
 </p>
 <p align="left">
-    <a title="Oracle DB" href="https://www.oracle.com/in/database/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg" alt="oracle" width="45" height="45" />
-    </a>
     <a title="PostreSQL" href="https://www.postgresql.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
     </a>
@@ -86,9 +49,6 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
     <a title="Docker" href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
     </a>
-    <a title="Docker Swarm" href="https://docs.docker.com/engine/swarm/" target="_blank">
-        <img src="https://raw.githubusercontent.com/docker-library/docs/471fa6e4cb58062ccbf91afc111980f9c7004981/swarm/logo.png" alt="docker swarm" width="45" height="45" />
-    </a>
     <a title="Kubernetes" href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="45" height="45" />
     </a>
@@ -106,9 +66,6 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
     </a>
     <a title="Linux" href="" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="45" height="45" />
-    </a>
-    <a title="Tomcat" href="http://tomcat.apache.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png" alt="tomcat" width="45" height="" />
     </a>
 </p>
 
