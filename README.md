@@ -31,9 +31,6 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with 9+ years o
     <a title="GraphQL" href="https://graphql.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45" />
     </a>
-    <a title="Maven" href="https://maven.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="45" height="50" />
-    </a>
     <a title="Gradle" href="https://gradle.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg" alt="gradle" width="45" height="45" />
     </a>
