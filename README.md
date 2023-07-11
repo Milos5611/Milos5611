@@ -7,9 +7,10 @@ My name is **Milos**, i am Software Engineer & SCRUM Evangelist, with experience
 - 📫  You can reach me directly at milos5611@gmail.com
 - 💬  Ask me anything about Javascript / Typescript / Node / Dart / Flutter stack, i'll be glat to help if i can
 
+<!--
 ![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&hide=stars&card_width=270)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milos5611&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=270)](https://github.com/Milos5611)
-
+-->
 <!--
 <h2>🛠 My Toolkit</h2>
 
