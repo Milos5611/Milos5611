@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+### Hi there 👋 [![Image of https://github.com/Milos5611/counter-view](https://github.com/Milos5611/counter-view/blob/master/svg/profile/badge.svg)](https://github.com/Milos5611/counter-view)
 
 My name is **Milos**, i am Software Engineer with experience in adding significant value to complex and large-scope projects, both on the development and project management end. Regarded for the ability to pay apt attention to details, all the while keeping in mind the big picture. Excellent in translating business requirements into operational tasks, thus facilitating the development process and bringing “reinventing the wheel” moments to a minimum. 
 
