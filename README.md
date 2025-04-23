@@ -1,11 +1,13 @@
 
 
-### Hi there 👋 [![Image of https://github.com/Milos5611/counter-view](https://github.com/Milos5611/counter-view/blob/master/svg/profile/badge.svg)](https://github.com/Milos5611/counter-view)
+### Hi there 👋
 
-My name is **Milos**, i am Software Engineer with experience in adding significant value to complex and large-scope projects, both on the development and project management end. Regarded for the ability to pay apt attention to details, all the while keeping in mind the big picture. Excellent in translating business requirements into operational tasks, thus facilitating the development process and bringing “reinventing the wheel” moments to a minimum. 
+My name is **Milos**. I am a Software Engineer with experience adding significant value to complex and large-scale projects, both on the development and project management end. I am regarded for my ability to pay close attention to details while keeping the big picture in mind. I am excellent at translating business requirements into operational tasks, thus facilitating the development process and minimizing “reinventing the wheel” moments. 
 
 - 📫  You can reach me directly at milos5611@gmail.com
-- 💬  Ask me anything about Javascript / Typescript / Node / Dart / Flutter stack, i'll be glat to help if i can
+- 💬  Ask me anything about JavaScript / TypeScript / Node / Dart / Flutter stack, I'll be glad to help if I can
+
+- [![Image of https://github.com/Milos5611/counter-view](https://github.com/Milos5611/counter-view/blob/master/svg/profile/badge.svg)](https://github.com/Milos5611/counter-view)
 
 <!--
 ![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&hide=stars&card_width=270)
