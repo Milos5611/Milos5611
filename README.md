@@ -7,8 +7,6 @@ My name is **Milos**. I am a Software Engineer with experience adding significan
 - 📫  You can reach me directly at milos5611@gmail.com
 - 💬  Ask me anything about JavaScript / TypeScript / Node / Dart / Flutter stack, I'll be glad to help if I can
 
-- [![Image of https://github.com/Milos5611/counter-view](https://github.com/Milos5611/counter-view/blob/master/svg/profile/badge.svg)](https://github.com/Milos5611/counter-view)
-
 <!--
 ![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milos5611&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&hide=stars&card_width=270)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milos5611&layout=compact&langs_count=8&hide_title=true&hide_border=true&card_width=270)](https://github.com/Milos5611)
